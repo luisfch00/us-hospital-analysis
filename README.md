@@ -4,7 +4,7 @@ This project uses SQL and Tableau to analyze hospital services and quality acros
 
 ## 📁 Tableau File
 
-▶️ [`us-hospital-analysis.twbx`](us-hospital-analysis.twb)
+▶️ [`us-hospital-analysis.twbx`](us-hospital-analysis.twbx)
 
 You can download and open this Tableau workbook to explore the dashboard and visualizations.
 
